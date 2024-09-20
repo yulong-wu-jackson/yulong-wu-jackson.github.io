@@ -6,10 +6,10 @@ Yulong is currently pursuing a Undergraduate Degree in Computer Science, at Univ
 Open to find a job
 
 #### Email
-yulong.wu[at]mail.utoronto.ca
+yulong.wu@mail.utoronto.ca
 
 #### Education
-University of Toronto, 2022—Present.\
+University of Toronto, 2022—Present.
 
 #### Research Interests
 Artificial Intelligence, Deep Learning, LLM.
