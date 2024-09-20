@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![yulong](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/yulong-wu-jackson)
 
 Yulong is currently pursuing a Undergraduate Degree in Computer Science, at University of Toronto.\
 Open to find a job
