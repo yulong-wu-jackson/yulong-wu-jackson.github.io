@@ -1,9 +1,5 @@
-- First-prize Academic Scholarship, 2023.
+- The Regents In-Course Scholarship, Aug, 2024
 
-- Freshman Academic Scholarship, 2022.
+- The Katherine St John Scholarship, Sep, 2023
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Dean’s List Scholar in the Faculty of Arts & Science, 2023 & 2024
