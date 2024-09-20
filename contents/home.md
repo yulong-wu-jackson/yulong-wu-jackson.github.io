@@ -2,15 +2,15 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Yulong is currently pursuing a Undergraduate Degree in Computer Science, at University of Toronto.\
+Open to find a job
 
 #### Email
-sli[at]cumt.edu.cn
+yulong.wu[at]mail.utoronto.ca
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+University of Toronto, 2022—Present.\
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Artificial Intelligence, Deep Learning, LLM.
 
